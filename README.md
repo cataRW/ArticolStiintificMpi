@@ -1,0 +1,2 @@
+# ArticolStiintificMpi
+Articol Stiintific MPI
